@@ -19,6 +19,7 @@ const corsOptions = {
     'http://192.168.29.142:3003',
     'http://localhost:3000',
     'http://192.168.29.142:3000',
+    'https://skillmatch-frontend-two.vercel.app',
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
